@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=I'm+Barack,+Agent/Backend+Engineer!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=I'm+Barack,+Agent/Backend+Engineer!" alt="Typing SVG" />
+  </a>
 </p>
+
 <p align="center">
-👋 Hi！ Welcome to my Github!
+👋 Hi! Welcome to my Github!
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyyy2510/cyyy2510/output/github-snake-dark.svg" />
